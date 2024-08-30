@@ -1,0 +1,11 @@
+{"_id":{"$oid":"61e7e0f201050fa6788903cc"},"name":"7Up","Gia":"6000","NCC":"Vinmart"}
+{"_id":{"$oid":"61e7e0f201050fa6788903cd"},"name":"Pepcola","Gia":"3000","NCC":"Vinmart"}
+{"_id":{"$oid":"61e7e0f201050fa6788903ce"},"name":"Sprite","Gia":"4000","NCC":"Vinmart"}
+{"_id":{"$oid":"61e7e0f201050fa6788903cf"},"name":"Cocacola","Gia":"2000","NCC":"Vinmart"}
+{"_id":{"$oid":"61e7e0f201050fa6788903d0"},"name":"Twister","Gia":"3000","NCC":"Vinmart"}
+{"_id":{"$oid":"61e7e221c479e2b5d7e2bf61"},"name":"Cocacola","Gia":"2000","NCC":"Vinmart"}
+{"_id":{"$oid":"61e7e221c479e2b5d7e2bf62"},"name":"Twister","Gia":"3000","NCC":"Vinmart"}
+{"_id":{"$oid":"61e7e221c479e2b5d7e2bf63"},"name":"Sprite","Gia":"4000","NCC":"Vinmart"}
+{"_id":{"$oid":"61e7e221c479e2b5d7e2bf64"},"name":"7Up","Gia":"6000","NCC":"Vinmart"}
+{"_id":{"$oid":"61e7e221c479e2b5d7e2bf65"},"name":"Pepcola","Gia":"3000","NCC":"Vinmart"}
+{"_id":1}

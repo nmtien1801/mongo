@@ -1,0 +1,51 @@
+{
+    
+    "cust_id" : "A123",
+    "products" : [ 
+        "apple", 
+        "lemon"
+    ],
+    "amount" : 500,
+    "status" : "completed"
+}
+{
+  
+    "cust_id" : "B456",
+    "products" : [ 
+        "lemon"
+    ],
+    "amount" : 100,
+    "status" : "processing"
+}
+{
+   
+    "cust_id" : "B456",
+    "products" : [ 
+        "apple", 
+        "orange"
+    ],
+    "amount" : 300,
+    "status" : "completed"
+},
+
+
+{
+
+    "cust_id" : "C789",
+    "products" : [ 
+        "apple", 
+        "lemon", 
+        "orange"
+    ],
+    "amount" : 800,
+    "status" : "completed"
+}
+{
+
+    "cust_id" : "A123",
+    "products" : [ 
+        "apple"
+    ],
+    "amount" : 250,
+    "status" : "completed"
+}
